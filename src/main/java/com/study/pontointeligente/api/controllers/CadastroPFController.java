@@ -1,4 +1,4 @@
-package com.study.pontointeligente.api.controller;
+package com.study.pontointeligente.api.controllers;
 
 import java.math.BigDecimal;
 import java.security.NoSuchAlgorithmException;
